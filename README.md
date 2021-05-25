@@ -1,5 +1,6 @@
 **因为 go-sciter的 bug [issues#297](https://github.com/sciter-sdk/go-sciter/issues/297) 暂未修复,无法继续开发,所以暂停本项目,使用 pyqt5重新开发**
-**新项目在 [dezhiShen/im-gui-pyqt5](https://github.com/dezhiShen/im-gui-pyqt5)
+
+**新项目在[dezhiShen/im-gui-pyqt5](https://github.com/dezhiShen/im-gui-pyqt5)**
 
 # im-gui
 即时通讯界面
